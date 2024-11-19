@@ -62,7 +62,7 @@ public class ConditionEx {
             System.out.println("1월부터12월까지만 가능합니다");
             //return; //메서드를 종료하고 호출한 곳으로 돌아감
         }
-        String season; // let season; == 변수명 부여
+        String season = ""; // let season; == 변수명 부여
         if (3 <= month && month <= 5) {
             season = "봄";
         }
