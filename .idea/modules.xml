@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00_JavaStart/00_JavaStart.iml" filepath="$PROJECT_DIR$/00_JavaStart/00_JavaStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_Varible/01_Varible.iml" filepath="$PROJECT_DIR$/01_Varible/01_Varible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Operator/02_Operator.iml" filepath="$PROJECT_DIR$/02_Operator/02_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Control/03_Condition.iml" filepath="$PROJECT_DIR$/03_Control/03_Condition.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-workspace.iml" filepath="$PROJECT_DIR$/.idea/Java-workspace.iml" />
     </modules>
   </component>
