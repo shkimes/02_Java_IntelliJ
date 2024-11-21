@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/02_Operator/02_Operator.iml" filepath="$PROJECT_DIR$/02_Operator/02_Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_Control/03_Condition.iml" filepath="$PROJECT_DIR$/03_Control/03_Condition.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Array/04_Array.iml" filepath="$PROJECT_DIR$/04_Array/04_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Oop/05_Oop.iml" filepath="$PROJECT_DIR$/05_Oop/05_Oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-workspace.iml" filepath="$PROJECT_DIR$/.idea/Java-workspace.iml" />
     </modules>
   </component>
