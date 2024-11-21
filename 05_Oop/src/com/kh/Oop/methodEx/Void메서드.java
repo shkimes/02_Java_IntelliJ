@@ -1,4 +1,4 @@
-package com.kh.Oop.Void메서드;
+package com.kh.Oop.methodEx;
 
 import java.util.Scanner;
 
@@ -36,6 +36,9 @@ public class Void메서드 {
     public void iogin(String  id, String pw){
         System.out.println(id);
         System.out.println(pw);
+    }
+    public void findid(String name, String email){
+        System.out.println("아이디는 shkimes 입니다.");
     }
 
 }

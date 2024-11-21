@@ -1,4 +1,4 @@
-package com.kh.Oop.Void메서드;
+package com.kh.Oop.methodEx;
 
 import java.util.Scanner;
 
